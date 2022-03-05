@@ -29,3 +29,5 @@ git checkout main                                                   [navega entr
 marge [pegar a branch e juntar com a main]
 
 teste
+
+teste 1
