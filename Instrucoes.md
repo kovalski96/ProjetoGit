@@ -27,3 +27,5 @@ realiza as alterações dentro desta branch que você deseja > salva > git add >
 git checkout main                                                   [navega entre as branch]
 
 marge [pegar a branch e juntar com a main]
+
+teste
