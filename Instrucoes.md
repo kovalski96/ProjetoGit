@@ -24,5 +24,6 @@ git checkout -b "novo-botao"                                        [cria a nova
 
 realiza as alterações dentro desta branch que você deseja > salva > git add > git commit -m nome-do-commit (este commit é apenas dentro desta branch secundaria)
 
-
 git checkout main                                                   [navega entre as branch]
+
+marge [pegar a branch e juntar com a main]
