@@ -21,3 +21,8 @@ git push origin main                                                [envia os co
 ------"branch" é uma ramificação do projeto master/main é a branch principal
 
 git checkout -b "novo-botao"                                        [cria a nova branch e já vai para esta nova branch]
+
+realiza as alterações dentro desta branch que você deseja > salva > git add > git commit -m nome-do-commit (este commit é apenas dentro desta branch secundaria)
+
+
+git checkout main                                                   [navega entre as branch]
